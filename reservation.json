@@ -1,0 +1,10 @@
+{
+  "firstName": "Lukas",
+  "lastName": "",
+  "totalPrice": 111,
+  "depositPaid": true,
+  "stay": {
+    "checkIn": "2018-01-01",
+    "checkOut": "2019-01-01"
+  }
+}
